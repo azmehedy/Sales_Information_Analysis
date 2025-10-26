@@ -1,4 +1,7 @@
 
+![Sales Information Dashboard](Dashboard.PNG)
+
+---
 # 📊 Sales Information Analysis
 
 A **Sales Information Dashboard** developed in **Power BI** that provides a complete overview of business performance across different products and countries. The dashboard visualizes essential KPIs such as total profit, number of products, number of countries, and monthly performance trends — enabling business leaders to make **data-driven decisions** quickly and effectively.
@@ -38,11 +41,6 @@ By leveraging **Power BI**, **DAX**, and **Power Query**, this project demonstra
 
 ---
 
-## 📈 Dashboard Preview
-
-![Sales Information Dashboard](Dashboard.PNG)
-
----
 
 ## 🧠 Insights
 
